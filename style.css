@@ -1,0 +1,40 @@
+body{color:#000000;
+    font-family:"Garamond";
+    background-color:#fefefe;}
+
+header{background-color:#e3ecef;}
+
+.head{background-color:#e8e8e8;}
+
+.description{text-decoration:none;
+    margin:15px;
+    display:block;
+    background-color:#fef4fe;
+    font-family:"Garamond"}
+
+.education{text-decoration:none;
+    margin:15px;
+    display:block;
+    background-color:#fef4fe;
+    font-family:"Garamond"}
+
+.projects{text-decoration:none;
+    margin:15px;
+    display:block;
+background-color:#fef4fe;
+font-family:"Garamond"}
+
+.contactInfo{text-decoration:none;
+    margin:15px;
+    display:block;
+    background-color:#fef4fe;
+    font-family:"Garamond";
+    text-align:left;}
+
+@media (max-width: 575.98px) {}
+
+@media (min-width: 576px) and (max-width: 767.98px) {}
+
+@media (min-width: 768px) and (max-width: 991.98px) {}
+
+@media (min-width: 992px) {}
